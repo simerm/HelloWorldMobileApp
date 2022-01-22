@@ -5,7 +5,8 @@ Hello World App
 
 ### App Walk-though
 
-![](https://i.imgur.com/wG1m9b1.gif)
+<img src="https://i.imgur.com/wG1m9b1.gif" width=200><br>
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
