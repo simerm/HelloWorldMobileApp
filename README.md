@@ -7,6 +7,8 @@ Hello World App
 
 <img src="https://i.imgur.com/wG1m9b1.gif" width=200><br>
 
+<img src="https://i.imgur.com/H5aMn1j.gif" width=200><br>
+
 ![](https://i.imgur.com/H5aMn1j.gif)
 
 ### Required User Stories
