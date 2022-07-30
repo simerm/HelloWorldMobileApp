@@ -7,6 +7,7 @@ Hello World App
 
 <img src="https://i.imgur.com/wG1m9b1.gif" width=200><br>
 
+![](https://i.imgur.com/H5aMn1j.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
